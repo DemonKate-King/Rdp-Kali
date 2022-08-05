@@ -5,6 +5,7 @@
 * 🌍 [Support](https://zalo.me/g/qveqns906)
 * 🌍 [Go To Cloud Shell](https://shell.cloud.google.com/?show=ide%2Cterminal)
 * 🌍 [your-authtoken](https://dashboard.ngrok.com/get-started/your-authtoken)
+
  ![image](https://www.kali.org/images/notebook-kali-2022.1.jpg)
  ### Command~#:
 ```
