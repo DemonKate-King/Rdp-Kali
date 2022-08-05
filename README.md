@@ -19,12 +19,9 @@ root@kali:~# sh kali.sh
 root@kali:~# wget https://raw.githubusercontent.com/DemonKate-King/Rdp-Kali/main/kali.sh&sh kali.sh (auto setup)
 ```
 ```
-![image](https://user-images.githubusercontent.com/58414694/148490063-3657aeb5-541f-4e27-88a2-735ad990df0e.png)
-```
-```
 Username : hoangdev
 Password : vpsfree123
 ```
 ```
 Thanks @hoangdev
-```
+ ![image](https://www.kali.org/images/notebook-kali-2022.1.jpg)
