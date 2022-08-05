@@ -24,4 +24,5 @@ Password : vpsfree123
 ```
 ```
 Thanks @hoangdev
- ![image](https://www.kali.org/images/notebook-kali-2022.1.jpg)
+
+ *![image](https://www.kali.org/images/notebook-kali-2022.1.jpg)
