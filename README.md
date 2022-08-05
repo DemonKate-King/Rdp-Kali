@@ -2,15 +2,19 @@
 * 🌍 [Github](https://github.com/DemonKate-King)
 * 🌍 [buymeacoffee](https://www.buymeacoffee.com/HoangDeveloper)
 * 🌍 [Support](https://zalo.me/g/qveqns906)
-* Go to -> https://shell.cloud.google.com/?show=ide%2Cterminal cloud shell
+* 🌍 [Go To Cloud Shell](https://shell.cloud.google.com/?show=ide%2Cterminal)
+* 🌍 [your-authtoken](https://dashboard.ngrok.com/get-started/your-authtoken)
 ```
-git clone https://github.com/DemonKate-King/Rdp-Kali/
-```
-```
-cd Rdp-Kali
+root@kali:~# git clone https://github.com/DemonKate-King/Rdp-Kali/
 ```
 ```
-sh kali.sh
+root@kali:~# cd Rdp-Kali
+```
+```
+root@kali:~# sh kali.sh
+```
+```
+root@kali:~# wget https://raw.githubusercontent.com/DemonKate-King/Rdp-Kali/main/kali.sh&sh kali.sh (auto setup)
 ```
 ```
 Username : hoangdev
