@@ -21,8 +21,8 @@ root@kali:~# sh kali.sh
 root@kali:~# wget https://raw.githubusercontent.com/DemonKate-King/Rdp-Kali/main/kali.sh&sh kali.sh (auto setup)
 ```
 ```
-Username : hoangdev
-Password : vpsfree123
+Username : ubuntu
+Password : ubuntu
 ```
 ```
 Thanks @hoangdev
