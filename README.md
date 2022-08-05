@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=7100F7&height=60&lines=!+Script+Free+Rdp+Kali+Lunix+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=7100F7&height=60&lines=!+Script+Free+Rdp+Kali+!)](https://github.com/DemonKate-King/Rdp-Kali)
 * 🌍 [Github](https://github.com/DemonKate-King)
 * 🌍 [buymeacoffee](https://www.buymeacoffee.com/HoangDeveloper)
 * 🌍 [Support](https://zalo.me/g/qveqns906)
